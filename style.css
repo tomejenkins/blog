@@ -1,5 +1,6 @@
 body {
     font-family: 'Helvetica Neue', sans-serif;
+    background-image: url('/pics/bg.jpg');
     background-color: #f9f9f9;
     color: #333;
     margin: 0;
